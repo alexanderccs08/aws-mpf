@@ -3,8 +3,9 @@
 #########################################################
 # version 1.0                                           #
 # Awsp.sh                                               #
-# This little project has aim as managment aws account  #
-# by cli                                                #
+# This small project is aimed at AWS account profile    # 
+# management                                            #
+#                                                       #
 #                                                       #
 # Alexander, 2023 May.                                  #
 #########################################################
