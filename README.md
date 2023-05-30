@@ -11,4 +11,8 @@ Access will be governed by the permissions that will be assigned to these profil
 
 This my first project to support some admin to manage your
 AWS account by using script shell.
-* Script Shell
+
+This script has some features such as:
+* List the profiles
+* Add a new credential
+* Set up a profile
