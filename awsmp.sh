@@ -2,7 +2,7 @@
 
 #########################################################
 # version 1.0                                           #
-# Awsp.sh                                               #
+# awsmp.sh                                              #
 # This small project is aimed at AWS account profile    # 
 # management                                            #
 #                                                       #
