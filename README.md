@@ -18,12 +18,16 @@ This script has some features such as:
 * Set up a profile
 
 After choosing a profile, you can exit the script and run the aws cli commands to manage your resources on AWS.
+
 Look at some examples:
+
 1. Command to launch a given EC2 instance known by its ID:
-$ `aws ec2 start-instances --instance-ids i-1348636c`
+
+`aws ec2 start-instances --instance-ids i-1348636c`
 
 2. Command to copy all contents of a local folder to an S3 bucket:
-$ `aws s3 cp myfolder s3://mybucket/myfolder –recursive`
+
+`aws s3 cp myfolder s3://mybucket/myfolder –recursive`
 
 Of course, you need to know what resources have been provisioned for that profile type.
 
