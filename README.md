@@ -38,6 +38,7 @@ To add a new credential, you need to get some security information from the AWS 
 These information are:
 
 **AWS_ACCESS_KEY_ID**
+
 **AWS_SECRET_ACCESS_KEY**
 
 ### **Set up your environment**
@@ -49,9 +50,11 @@ or
 `vim ~/.bashrc`
 
 In the end of this file, add:
-`alias amp='path where is your python script'`
+`alias amp='path where is your shell script'`
 
-You can choose your own alias, like 'alias abc=...' 
+You can choose your own alias, like 'alias abc=...'
+
+In my case is:
 
 `alias awsp='source /home/alexander/scripts/aws/awsmp.sh'`
 
