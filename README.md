@@ -9,8 +9,7 @@ In order to facilitate this access to multiple AWS accounts via CLI, AWS itself 
 You can also access another AWS account, just change the profile that is currently being used.
 Access will be governed by the permissions that will be assigned to these profiles in each of these AWS accounts.
 
-This is my first project to support some admin to manage your
-AWS account by using script shell.
+This is my first project to support some Linux System Administrator to manage your AWS account by using script shell.
 
 This script has some features such as:
 * List the profiles
